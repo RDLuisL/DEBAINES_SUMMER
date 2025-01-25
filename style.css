@@ -11,6 +11,10 @@
 		overflow-y: hidden;
 	}
 
+	.walk-icon {
+		width: 60px;
+		color: white;
+	}
 
 	.container{
 		width: 1200px;
