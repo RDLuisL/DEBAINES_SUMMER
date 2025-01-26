@@ -186,10 +186,6 @@
 	}
 	/* BREAK */
 
-
-
-
-
 	.explore{
 		padding: 100px 0 60px 0;
 		background: deepskyblue;
@@ -235,10 +231,26 @@
 		width: 100%;
 		counter-increment: numbers;
 		content:counter(numbers)'.';
-		margin-bottom: 30px;
-		font-size: 90px;
+		margin-bottom: 20px;
+		font-size: 50px;
 		color: #fff;
 	}
+
+	.como-llegar {
+		color: white;
+		text-decoration: none;
+		margin-top: 15px !important;
+	}
+
+	.c-icon {
+		color: white;
+	}
+	
+	.como-llegar:hover {
+		color: #ccc;
+		text-decoration: underline;
+	}
+
 	.explore-item .text h3{
 		color:#fff;
 		font-size:42px;
